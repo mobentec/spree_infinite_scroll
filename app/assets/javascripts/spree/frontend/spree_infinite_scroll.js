@@ -1,4 +1,3 @@
-//= require spree/frontend/spree_frontend
 
 $(function() {
   $('#content nav.pagination').hide();
