@@ -1,3 +1,5 @@
+Edited to work with Spree 3.0.0
+
 Spree Infinite Scroll
 =====================
 
